@@ -37,13 +37,15 @@ Before you begin, ensure you have met the following requirements:
 ### Installation
 Clone the Repository:
 ```bash
-git clone https://github.com/Ezeah/Solana-Bootcamp-Final-Project
+https://github.com/Ezeah/Solana-Bootcamp-Final-Project
 ```
 
 ## Build the contract
-Open a terminal window from the terminal tab above and navigate to the generated directory using the command: ```bash
+Open a terminal window from the terminal tab above and navigate to the generated directory using the command:
+```bash
 cd program
 ```
+
 Type and run the command:
 ```bash
 cargo build-sbf
@@ -55,7 +57,7 @@ If there are no errors, type the command:
 solana config set --url devnet
 ```
 
-# Get devnet tokens
+## Get devnet tokens
 You get devnet tokens using the command:
 ```bash
 solana airdrop 1
@@ -80,7 +82,7 @@ To run interact with this contract please, install the required dependencies and
 cd program_client
 ```
 
-### Install Dependencies
+## Install Dependencies
 Type and enter the command: 
 ```bash
 yarn install
