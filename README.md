@@ -6,6 +6,9 @@ The Solana-Bootcamp-Final-Project is a decentralized application (DApp) on the S
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
+  - [Minting NFTs](#Minting-NFTs)
+  - [Transferring NFTs](#Transferring-NFTs)
+  - [Burning NFTs](#Burning-NFTs)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -20,11 +23,14 @@ The Solana-Bootcamp-Final-Project is a decentralized application (DApp) on the S
 - [License](#License)
 
 ## Features
-Minting NFTs: Users can mint new NFTs by specifying metadata, including color, rarity, and a short description. Each minted NFT is assigned a unique identifier (mint address).
+### Minting NFTs
+Users can mint new NFTs by specifying metadata, including color, rarity, and a short description. Each minted NFT is assigned a unique identifier (mint address).
 
-Transferring NFTs: NFTs can be securely transferred from one user to another. Ownership changes are reflected in the associated token accounts.
+### Transferring NFTs
+NFTs can be securely transferred from one user to another. Ownership changes are reflected in the associated token accounts.
 
-Burning NFTs: Users have the option to burn (destroy) NFTs, reducing the total supply. After burning, the associated metadata is updated, and the association account is set to undefined.
+### Burning NFTs
+Users have the option to burn (destroy) NFTs, reducing the total supply. After burning, the associated metadata is updated, and the association account is set to undefined.
 
 ## Getting started
 
