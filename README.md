@@ -104,7 +104,7 @@ app.ts
 ```
 
 Since we have our frontend test and contract, we can test our NFT contract. 
-To do this, execute the client by typing the following command:
+- To do this, execute the client by typing the following command:
 ```bash
 npx ts-node app.ts <YOUR_PROGRAM_ID>
 ```
@@ -113,9 +113,9 @@ npx ts-node app.ts <YOUR_PROGRAM_ID>
 Update the contract address in your application to interact with the deployed smart contract.
 
 ## Important Notes
-Ensure your Solana wallet is configured with the necessary SOL tokens.
-Ensure the secure handling of wallet authentication and keep private keys confidential.
-Verify the contract address and associated accounts before performing transactions.
+- Ensure your Solana wallet is configured with the necessary SOL tokens.
+- Ensure the secure handling of wallet authentication and keep private keys confidential.
+- Verify the contract address and associated accounts before performing transactions.
 
 ## License
 This project is licensed under the Unlicense. See the LICENSE file for details.
