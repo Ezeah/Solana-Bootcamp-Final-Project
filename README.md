@@ -47,12 +47,6 @@ https://github.com/Ezeah/Solana-Bootcamp-Final-Project
 ```
 
 ## Build the contract
-Open a terminal window from the terminal tab above and navigate to the generated directory using the command:
-```bash
-cd program
-```
-
-## Build the contract
 Open a terminal window from the terminal tab above and navigate to the generated directory using the command: 
 ```bash
 cd program
